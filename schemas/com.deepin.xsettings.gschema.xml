@@ -402,5 +402,10 @@
         <summary></summary>
         <description></description>
     </key>
+    <key type="s" name="primary-monitor-name">
+        <default>'eDP-1'</default>
+        <summary></summary>
+        <description></description>
+    </key>
   </schema>
 </schemalist>
