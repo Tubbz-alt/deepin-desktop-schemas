@@ -67,7 +67,7 @@
         </key>
 
 		<key type="b" name="adjust-brightness-enabled">
-			<default>false</default>
+			<default>true</default>
 			<summary>adjust display brigtness enabled</summary>
 			<description/>
 		</key>
